@@ -81,6 +81,3 @@ i[data-lucide] svg, svg {
     -webkit-line-clamp:2;
     -webkit-box-orient:vertical;
     overflow:hidden}
-
-/* TEMP: contact page taken down — delete this rule (and the redirect in Caddyfile) to restore */
-a[href="contact.html"] { display: none !important; }
